@@ -2,32 +2,31 @@
 
 🌱 **About Me:**
 
-- 🎓 I'm a student learning to code, still in the early stages of my journey.
-- 📚 Currently building my skills and working on my achievements.
+- 🎓 I'm a student, just beginning my coding journey.
+- 📚 Currently building up my skills and working towards achievements.
 - 🐧 Exploring the world of **Kali Linux** and ethical hacking.
-- 🧑‍💻 Passionate about learning and improving every day!
+- 🧑‍💻 Passionate about learning and growing every day!
 
 ---
 
 ## 🛠️ **Skills Overview**
 
-| Skill                  | Level              |
-|------------------------|--------------------|
-| 📝 English Proficiency  | 🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜ 30% |
-| 💻 Coding Knowledge     | 🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜ 20% |
-| 🐧 Kali Linux Mastery   | 🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜ 12% |
+| **Skill**              | **Diagram**                               | **Percentage** |
+|------------------------|-------------------------------------------|----------------|
+| **English Proficiency** | ![English Proficiency](https://chart.googleapis.com/chart?cht=p&chs=150x150&chd=t:30,70&chl=English|Others&chco=33FF57) | 30%            |
+| **Coding Knowledge**    | ![Coding Knowledge](https://chart.googleapis.com/chart?cht=p&chs=150x150&chd=t:20,80&chl=Coding|Others&chco=FFA500)   | 20%            |
+| **Kali Linux Mastery**  | ![Kali Linux Mastery](https://chart.googleapis.com/chart?cht=p&chs=150x150&chd=t:12,88&chl=KaliLinux|Others&chco=87CEEB)  | 12%            |
 
 ---
 
 ## 🎯 **Goals**
 
-- 🔨 Building a solid foundation in coding and cybersecurity.
-- 🚀 Working towards mastery in Kali Linux.
-- 🌍 Expanding my knowledge and improving my English skills.
+- 🔨 Building a strong foundation in **coding** and **cybersecurity**.
+- 🚀 Working towards becoming more proficient in **Kali Linux**.
+- 🌍 Constantly improving my **English** skills.
 
 ---
 
-### 📫 How to reach me:
+### 📫 **Connect with me:**
 
-Feel free to connect with me if you share the same interests or just want to say hi! 😄
-
+Feel free to reach out if you share the same interests or just want to chat! 😊
