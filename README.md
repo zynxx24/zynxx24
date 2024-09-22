@@ -11,11 +11,14 @@
 
 ## 🛠️ **Skills Overview**
 
-| **Skill**              | **Diagram**                               | **Percentage** |
-|------------------------|-------------------------------------------|----------------|
-| **English Proficiency** | ![English Proficiency](https://chart.googleapis.com/chart?cht=p&chs=150x150&chd=t:30,70&chl=English|Others&chco=33FF57) | 30%            |
-| **Coding Knowledge**    | ![Coding Knowledge](https://chart.googleapis.com/chart?cht=p&chs=150x150&chd=t:20,80&chl=Coding|Others&chco=FFA500)   | 20%            |
-| **Kali Linux Mastery**  | ![Kali Linux Mastery](https://chart.googleapis.com/chart?cht=p&chs=150x150&chd=t:12,88&chl=KaliLinux|Others&chco=87CEEB)  | 12%            |
+| **Skill**              | **Level**           |
+|------------------------|---------------------|
+| **English Proficiency** | 🟢🟢🟢⚪⚪⚪⚪⚪⚪⚪ (30%) |
+| I have basic understanding of English, but always learning more to improve! |
+| **Coding Knowledge**    | 🟢🟢⚪⚪⚪⚪⚪⚪⚪⚪ (20%) |
+| I'm learning the fundamentals of coding and excited to gain more experience! |
+| **Kali Linux Mastery**  | 🟢🟢⚪⚪⚪⚪⚪⚪⚪⚪ (12%) |
+| Just getting started with Kali Linux, and loving the journey so far! |
 
 ---
 
