@@ -63,15 +63,19 @@ const developer = {
 
 ## 📈 Learning Journey
 
-```mermaid
-gitgraph
-    commit id: "Started Coding"
-    commit id: "Learned HTML/CSS"
-    commit id: "JavaScript Basics"
-    commit id: "React & Node.js"
-    commit id: "Kali Linux Intro"
-    commit id: "Current: Advanced Concepts"
-```
+graph LR
+    A[Started Coding] --> B[HTML/CSS]
+    B --> C[JavaScript]
+    C --> D[React & Node.js]
+    D --> E[Kali Linux]
+    E --> F[Advanced Concepts]
+    
+    style A fill:#ff6b6b
+    style B fill:#4ecdc4
+    style C fill:#45b7d1
+    style D fill:#96ceb4
+    style E fill:#feca57
+    style F fill:#ff9ff3
 
 ## 🤝 Let's Connect
 
