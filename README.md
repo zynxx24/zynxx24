@@ -62,7 +62,7 @@ const developer = {
 - 📚 Improving English proficiency for better global collaboration
 
 ## 📈 Learning Journey
-
+```mermaid
 graph LR
     A[Started Coding] --> B[HTML/CSS]
     B --> C[JavaScript]
@@ -76,6 +76,7 @@ graph LR
     style D fill:#96ceb4
     style E fill:#feca57
     style F fill:#ff9ff3
+```
 
 ## 🤝 Let's Connect
 
