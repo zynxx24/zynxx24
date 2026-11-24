@@ -34,6 +34,6 @@ More: [AppCash](https://github.com/zynxx24/AppCash) and [KasKu](https://github.c
 
 ### Say hi
 
-[LinkedIn](https://linkedin.com/in/gdeaguswiradarmaputra) · [Instagram](https://instagram.com/gdeguswiradarmaputra)
+[zynxx24.github.io](https://zynxx24.github.io/) · [LinkedIn](https://linkedin.com/in/gdeaguswiradarmaputra) · [Instagram](https://instagram.com/gdeguswiradarmaputra)
 
 <sub>The cards above are built from live GitHub API data by [`scripts/build_profile.py`](scripts/build_profile.py) and refreshed every day by a GitHub Action.</sub>
