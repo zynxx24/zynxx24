@@ -1,98 +1,39 @@
-# Hi there, I'm zynxx24  👋
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <img src="assets/banner-light.svg" width="100%" alt="Zyn (@zynxx24), student developer at SMKN 2 Kuta Selatan, Bali. Builds an AI agent, Laravel web apps and Android cash apps for class.">
+</picture>
 
-<div align="center">
-  
-  **`Student Developer | Fullstack Enthusiast | Cybersecurity Explorer`**
-  
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+the+future+with+code;Learning+something+new+every+day;Passionate+about+cybersecurity)
+I'm in class XII PPLG (software engineering) at SMKN 2 Kuta Selatan, Bali. Most of what I build starts from a real need: my class needed a way to track cash, so it got a web dashboard, then three Android apps. Right now most of my time goes into **SquidWings**, an open-source AI agent that speaks Bahasa Indonesia.
 
-</div>
+### Things I've built
 
-## 🚀 About Me
+<a href="https://github.com/zynxx24/SquidWings"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-squidwings-dark.svg"><img src="assets/project-squidwings-light.svg" width="49%" alt="SquidWings: open-source AI agent for the terminal and the web, in Bahasa Indonesia. Python."></picture></a> <a href="https://github.com/zynxx24/CateringKu-ZynxWira-"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-cateringku-dark.svg"><img src="assets/project-cateringku-light.svg" width="49%" alt="CateringKu: catering marketplace with customer, vendor and admin roles. Laravel 13, Vue 3, Inertia."></picture></a>
+<a href="https://github.com/zynxx24/KasTep"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-kastep-dark.svg"><img src="assets/project-kastep-light.svg" width="49%" alt="KasTep: offline-first Android app for the XII PPLG class cash. Kotlin, Jetpack Compose."></picture></a> <a href="https://github.com/zynxx24/Kas-XIIPPLG---cash-management"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-kas-xii-pplg-dark.svg"><img src="assets/project-kas-xii-pplg-light.svg" width="49%" alt="Kas XII PPLG: class cash dashboard with an HTTP API written in C."></picture></a>
 
-```typescript
-const developer = {
-  name: "zynxx24",
-  role: "Student Developer",
-  location: "Indonesia 🇮🇩",
-  interests: ["Fullstack Development", "Cybersecurity", "Open Source"],
-  currentFocus: "Building modern web applications",
-  learningGoals: ["React Ecosystem", "Node.js Backend", "Ethical Hacking"]
-}
-```
+More: [AppCash](https://github.com/zynxx24/AppCash) and [KasKu](https://github.com/zynxx24/kasku) (two more takes on the class cash app) · [XI PPLG class website](https://zynxx24.github.io/XI-PPLG/general/)
 
-## 🛠️ Tech Stack
+### What I work with
 
-<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
+  <img src="assets/stack-light.svg" width="100%" alt="Python, PHP, Laravel, Vue, TypeScript, React, Next.js, Node.js, Kotlin, Jetpack Compose, C, Tailwind, Linux, Git">
+</picture>
 
-### Frontend
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### On GitHub
 
-### Backend & Tools
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg">
+  <img src="assets/stats-light.svg" width="100%" alt="Public repositories, stars and languages by code size, from the GitHub API">
+</picture>
 
-### Security & OS
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+### Right now
 
-</div>
+- Making SquidWings run well on cheap models: checking tool results, breaking loops, escalating only when needed.
+- Hardening my web apps against the usual holes (OWASP Top 10) and writing tests for them.
+- Learning more Linux and security on the side.
 
-## 📊 GitHub Stats
+### Say hi
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zynxx24&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zynxx24&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
+[LinkedIn](https://linkedin.com/in/gdeaguswiradarmaputra) · [Instagram](https://instagram.com/gdeguswiradarmaputra)
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zynxx24&theme=tokyonight&hide_border=true"/>
-</div>
-
-## 🎯 Current Focus
-
-- 🌱 Deepening knowledge in **React ecosystem** and modern web development
-- 🔐 Exploring **ethical hacking** and cybersecurity fundamentals
-- 🚀 Building projects that solve real-world problems
-- 📚 Improving English proficiency for better global collaboration
-
-## 📈 Learning Journey
-```mermaid
-graph LR
-    A[Started Coding] --> B[HTML/CSS]
-    B --> C[JavaScript]
-    C --> D[React & Node.js]
-    D --> E[Kali Linux]
-    E --> F[Advanced Concepts]
-    
-    style A fill:#ff6b6b
-    style B fill:#4ecdc4
-    style C fill:#45b7d1
-    style D fill:#96ceb4
-    style E fill:#feca57
-    style F fill:#ff9ff3
-```
-
-## 🤝 Let's Connect
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gdeaguswiradarmaputra)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gdeguswiradarmaputra)
-
-</div>
-
----
-
-<div align="center">
-  
-  **💡 "Code is like humor. When you have to explain it, it's bad." - Cory House**
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=zynxx24&color=36BCF7&style=flat-square&label=Profile+Views)
-  
-</div>
+<sub>The cards above are built from live GitHub API data by [`scripts/build_profile.py`](scripts/build_profile.py) and refreshed every day by a GitHub Action.</sub>
